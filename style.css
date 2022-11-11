@@ -1,0 +1,165 @@
+.img {
+    vertical-align: middle;
+    width: 45%;
+    margin-left: 40%;
+    margin-right: 30%;
+    margin-top: 0%;
+}
+
+.css-1kyxreq {
+    display: flex;
+    flex-flow: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.subtitle {
+    font-size: 40px;
+    font-family: inherit;
+    color: #8d198f;
+    padding: 0px;
+    /* margin-left: 30%; */
+    /* margin-right: 30%; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.font {
+    font-size:30px ; 
+    font-family: 'Arial'; 
+    color: #030d1f; 
+    padding: 0px; 
+    margin: 0px;
+}
+
+.title1 {
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: bold;
+    color: rgb(49 51 63);
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    /* display: flex;
+    justify-content: space-around; */
+    }
+
+.title2 {
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: bold;
+    color: rgb(49 51 63);
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    }
+
+.body {
+    font-size:20px ; 
+    color: #050505;
+    }
+
+.row-widget stSelectbox {
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 40%;
+}
+
+.css-qrbaxs effi0qh0{
+    font-size: 16px;
+    color: rgb(49, 51, 63);
+    margin-top: 7px;
+    margin-bottom: 4px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.st-bu {
+    background-color: rgb(235 216 235 / 57%);
+}
+
+.st-bt {
+    border-bottom-color: #8d198f;
+}
+
+.st-bs {
+    border-top-color: #8d198f;
+}
+
+.st-br {
+    border-right-color: #8d198f;
+}
+
+.st-bq {
+    border-left-color: #8d198f;
+}
+
+.st-bp {
+    color: rgb(49 51 63);
+}
+
+.st-ah {
+    line-height: 1.6;
+}
+.st-ag {
+    font-weight: 500;
+}
+.st-af {
+    font-size: inherit;
+}
+.st-ae {
+    font-family: inherit;
+}
+
+.describe {
+    margin: 0px 0px 1rem;
+    padding: 0px;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.css-qrbaxs {
+    font-size: 14px;
+    color: rgb(49, 51, 63);
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 0rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.row-widget stButton {
+    width: 704px;
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+.css-o1jpvw e19lei0e1 { 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.css-zjmy26 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: inherit;
+    display: inline;
+    font-size: medium;
+    font-weight: 600;
+    width: max-content;
+}
+
