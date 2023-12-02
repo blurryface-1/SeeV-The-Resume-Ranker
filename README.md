@@ -4,6 +4,8 @@ A resume ranking application that uses various ML/DL algorithms to automatically
 
 ![homepage](./Images/Homepage.jpg)
 
+![result](./Images/Resumes_ranked.jpg)
+
 ---
 ## Features
 
