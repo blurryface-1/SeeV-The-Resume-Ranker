@@ -2,7 +2,7 @@
 
 A resume ranking application that uses various ML/DL algorithms to automatically evaluate and rank a candidate’s resume from a pool of available candidate resumes using input criteria from the detailed JD.
 
-![homepage](//Images//Homepage.jpg)
+![homepage](./Images/Homepage.jpg)
 
 ---
 ## Features
